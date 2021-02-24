@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "919903389764",
+    "project_id": "adogtap",
+    "storage_bucket": "adogtap.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919903389764:android:b96954aee35b6bdf1dd411",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919903389764-ch0medfveohg8q495ivd3pjk7rgg5tc9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB3t3vGAdtUXkOFL-cWT4LllGcoDHIjFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919903389764-ch0medfveohg8q495ivd3pjk7rgg5tc9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

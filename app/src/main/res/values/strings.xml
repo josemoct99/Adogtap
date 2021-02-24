@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">LogIn</string>
+    <string name="texto_bienvenida">Bienvenido a ADOGTAP</string>
+    <string name="btnIniciar">Iniciar sesión</string>
+    <string name="btnRegistrar">Registrarse</string>
+    <string name="txtUsuario">Correo electrónico</string>
+    <string name="txtPassword">Contraseña</string>
+    <string name="regresar">Regresar</string>
+    <string name="IniciarSesion">Iniciar Sesión</string>
+    <string name="Adogtap">Adogtap</string>
+    <string name="Seleccion">Selección</string>
+    <string name="Perfil">Perfil</string>
+    <string name="Comunidad">Comunidad</string>
+    <string name="Adopcion">Adopción</string>
+    <string name="CerrarSesion">Cerrar sesión</string>
+
+    <string name="InicioPerfil">A continuación verás tus datos: </string>
+    <string name="Nombre">Nombre: </string>
+    <string name="Edad">Edad: </string>
+    <string name="Dirección">Dirección: </string>
+    <string name="Correo">Correo electrónico: </string>
+    <string name="IDUsuario">ID de Usuario</string>
+
+
+
+    <string name="introSeleccion">Mira todos los animales disponibles</string>
+    <string name="introPefil">Accede a la información de tu perfil</string>
+    <string name="introComunidad">Entra y enterate de todo lo nuevo</string>
+
+</resources>
